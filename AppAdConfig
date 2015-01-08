@@ -1,20 +1,16 @@
 [
   {
-    "appIconUrl": 111,
+    "appIconUrl": "1111222",
     "appName": "popfurit",
     "appDescription": "xxx",
-    "bundleIdentifier": "com.shiqyn.dd"
+    "bundleIdentifier": "com.shiqyn.dd",
+    "price": "免费"
   },
   {
-    "appIconUrl": 111,
+    "appIconUrl": "111",
     "appName": "popfurit",
     "appDescription": "xxx",
-    "bundleIdentifier": "com.shiqyn.dd"
-  },
-  {
-    "appIconUrl": 111,
-    "appName": "popfurit",
-    "appDescription": "xxx",
-    "bundleIdentifier": "com.shiqyn.dd"
+    "bundleIdentifier": "com.shiqyn.dd",
+    "price": "Y1.00"
   }
 ]
