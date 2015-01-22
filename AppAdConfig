@@ -1,1 +1,18 @@
-
+[
+  {
+    "appIconUrl": "http://t1.qpic.cn/mblogpic/1c482addfd0288b092fe/2000",
+    "appName": "PopFruit! - 官方完整免费版",
+    "appDescription": "开心消消乐水果版",
+    "bundleIdentifier": "com.shiqyn.PopFruit",
+    "AppId": "943347619",
+    "price": "免费"
+  },
+  {
+    "appIconUrl": "http://t1.qpic.cn/mblogpic/814be253b6eb6955eac4/2000",
+    "appName": "口袋听书™",
+    "appDescription": "听书神器",
+    "bundleIdentifier": "com.shiqyn.kdts",
+    "AppId": "934847520",
+    "price": "免费"
+  }
+]
