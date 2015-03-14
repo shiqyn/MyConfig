@@ -23,4 +23,13 @@
     "AppId": "956413346",
     "price": "1元 "
   }
+  ,
+  {
+    "appIconUrl": "http://t1.qpic.cn/mblogpic/7ff987075b09d96a30f8/2000",
+    "appName": "疯狂消星星",
+    "appDescription": "经典益智休闲游戏",
+    "bundleIdentifier": "com.shiqyn.popstar5",
+    "AppId": "965605654",
+    "price": ""
+  }
 ]
