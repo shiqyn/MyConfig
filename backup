@@ -10,9 +10,25 @@
   {
     "appIconUrl": "http://t1.qpic.cn/mblogpic/814be253b6eb6955eac4/2000",
     "appName": "口袋听书™",
-    "appDescription": "听书神器",
+    "appDescription": "听小说音乐英语百家脱口秀等",
     "bundleIdentifier": "com.shiqyn.kdts",
     "AppId": "934847520",
     "price": "免费"
+  },
+  {
+    "appIconUrl": "http://t1.qpic.cn/mblogpic/257e0b31831f50445cb0/2000",
+    "appName": "新概念英语2015版",
+    "appDescription": "英美全四册，限时优惠中...",
+    "bundleIdentifier": "com.shiqyn.xglyy",
+    "AppId": "956413346",
+    "price": "1元 "
+  },
+  {
+    "appIconUrl": "http://t1.qpic.cn/mblogpic/7ff987075b09d96a30f8/2000",
+    "appName": "疯狂消星星",
+    "appDescription": "经典益智休闲游戏",
+    "bundleIdentifier": "com.shiqyn.popstar5",
+    "AppId": "965605654",
+    "price": ""
   }
 ]
